@@ -1,5 +1,7 @@
 # Style-Bert-VITS2
 
+The collab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samiabat/Style-BertVITS2-Old/blob/main/colab.ipynb) note that I will remove it i just uploaded since the orginial github added the changes and it didnt work me well. 
+
 Bert-VITS2 with more controllable voice styles.
 
 https://github.com/litagin02/Style-Bert-VITS2/assets/139731664/e853f9a2-db4a-4202-a1dd-56ded3c562a0
@@ -212,5 +214,6 @@ For quick guide, please refer to `webui_preprocess.py`.
 </a>
 
 [//]: # (# 本项目所有代码引用均已写明，bert部分代码思路来源于[AI峰哥]&#40;https://www.bilibili.com/video/BV1w24y1c7z9&#41;，与[vits_chinese]&#40;https://github.com/PlayVoice/vits_chinese&#41;无任何关系。欢迎各位查阅代码。同时，我们也对该开发者的[碰瓷，乃至开盒开发者的行为]&#40;https://www.bilibili.com/read/cv27101514/&#41;表示强烈谴责。)
-#   S t y l e - B e r t V I T S 2 - O l d  
+#   S t y l e - B e r t V I T S 2 - O l d 
+ 
  "# Style-BertVITS2-Old" 
