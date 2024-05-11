@@ -1,6 +1,9 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samiabat/Style-BertVITS2-Old/blob/main/colab.ipynb)
+
+
 # Style-Bert-VITS2
 
-The collab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samiabat/Style-BertVITS2-Old/blob/main/colab.ipynb) note that I will remove it i just uploaded since the orginial github added the changes and it didnt work me well. 
+The collab link:  note that I will remove it i just uploaded since the orginial github added the changes and it didnt work me well. 
 
 Bert-VITS2 with more controllable voice styles.
 
